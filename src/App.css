@@ -9,19 +9,19 @@ html, body {
 }
 
 div {
-  width: 800px;
-  height: 400px;
+  width: 806px;
+  height: 406px;
   position: relative;
 }
 
 img {
-  width: 800px;
-  height: 400px;
   position: absolute;
 }
 
 canvas {
-  width: 800px;
-  height: 400px;
+  width: 806px;
+  height: 406px;
   position: absolute;
 }
+
+
